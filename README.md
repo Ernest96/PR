@@ -8,6 +8,7 @@
 4) Click Build
 
 ## How to run the project ?
+edit
 
 1) Open CLI
 2) Navigate to build\Debug\netcoreapp1.1 or build\Release\netcoreapp1.1
