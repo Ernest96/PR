@@ -10,5 +10,5 @@
 ## How to run the project ?
 
 1) Open CLI
-2) Navigate to PR\bin\Debug\netcoreapp1.1 or PR\bin\Release\netcoreapp1.1
+2) Navigate to build\Debug\netcoreapp1.1 or build\Release\netcoreapp1.1
 3) Run command - dotnet PR.dll
