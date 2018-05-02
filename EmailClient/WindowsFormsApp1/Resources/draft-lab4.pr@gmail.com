@@ -1,0 +1,1 @@
+[{"Attachments":[],"id":"069680f0-7585-4e55-87da-cbbf21b1cde4","To":"draft@example.com","Body":"ZXCZ","Subject":"ZXC","From":"lab4.pr@gmail.com"}]
